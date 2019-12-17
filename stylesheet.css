@@ -1,0 +1,52 @@
+.navbar{
+    
+}
+
+.navbar-toggler{
+
+   
+}
+body{
+    background-color: black;
+    
+}
+main{
+    font-family: "Dax OT";
+    
+    color: white;
+}
+.text-center h1{
+    
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 31px;
+    text-align: center;
+}
+.middle{
+    
+}
+
+.middle-img1{
+    max-width: 100%;
+    height:auto;
+    
+}
+.middle-text-m::first-letter{
+    font-size: 3rem;
+    text-align:center;
+    line-height: 75px;
+    font-family: 'Noto Sans';
+}
+.middle-text-m .middle-text-sub{
+    font-size: 1rem
+}
+.button-let{
+   
+    
+}
+.btn{
+   width: 50%;
+   border-radius: 20px;
+   text-align: center;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(13,9,233,1) 0%, rgba(4,53,245,1) 0%, rgba(102,22,247,1) 41%, rgba(164,3,248,1) 58%, rgba(239,0,255,1) 100%);
+}
